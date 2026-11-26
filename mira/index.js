@@ -1,7 +1,7 @@
 // 影探4K · MiraPlay / 猫爪 网页源包
 // 结构：globalThis.websiteBundle = function(){ return "<网页应用>" }
 // 应用主体托管在 CDN，本文件负责拉取并注入页面。
-var APP = 'https://aka.doubaocdn.com/s/ZLLYQgGVsM';
+var APP = 'https://aka.doubaocdn.com/s/zMUsLQjm7X';
 
 globalThis.websiteBundle = function () {
   return '<!doctype html><html><head><meta charset="utf-8">'
