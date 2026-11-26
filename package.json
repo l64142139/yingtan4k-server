@@ -1,0 +1,15 @@
+{
+  "name": "yingtan4k-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "影探4K 自定义接口服务（TVBox / 猫影视 / 猫爪 兼容）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.28.1",
+    "axios": "^1.7.7"
+  }
+}
